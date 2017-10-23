@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mtardix/CLionProjects/AuDEx02/RandomAccessMachine.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+RandomAccessMachine.h
+/home/mtardix/CLionProjects/AuDEx02/RandomAccessMachine.h
+
+/home/mtardix/CLionProjects/AuDEx02/RandomAccessMachine.h
+
+/home/mtardix/CLionProjects/AuDEx02/main.cpp
+iostream
+-
+RandomAccessMachine.h
+/home/mtardix/CLionProjects/AuDEx02/RandomAccessMachine.h
+
