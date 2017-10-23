@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/mtardix/CLionProjects/AuDEx02/Ackermann.cpp" "/home/mtardix/CLionProjects/AuDEx02/cmake-build-debug/CMakeFiles/AuDEx02.dir/Ackermann.cpp.o"
   "/home/mtardix/CLionProjects/AuDEx02/RandomAccessMachine.cpp" "/home/mtardix/CLionProjects/AuDEx02/cmake-build-debug/CMakeFiles/AuDEx02.dir/RandomAccessMachine.cpp.o"
   "/home/mtardix/CLionProjects/AuDEx02/main.cpp" "/home/mtardix/CLionProjects/AuDEx02/cmake-build-debug/CMakeFiles/AuDEx02.dir/main.cpp.o"
   )

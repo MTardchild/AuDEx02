@@ -123,6 +123,33 @@ AuDEx02/fast:
 	$(MAKE) -f CMakeFiles/AuDEx02.dir/build.make CMakeFiles/AuDEx02.dir/build
 .PHONY : AuDEx02/fast
 
+Ackermann.o: Ackermann.cpp.o
+
+.PHONY : Ackermann.o
+
+# target to build an object file
+Ackermann.cpp.o:
+	$(MAKE) -f CMakeFiles/AuDEx02.dir/build.make CMakeFiles/AuDEx02.dir/Ackermann.cpp.o
+.PHONY : Ackermann.cpp.o
+
+Ackermann.i: Ackermann.cpp.i
+
+.PHONY : Ackermann.i
+
+# target to preprocess a source file
+Ackermann.cpp.i:
+	$(MAKE) -f CMakeFiles/AuDEx02.dir/build.make CMakeFiles/AuDEx02.dir/Ackermann.cpp.i
+.PHONY : Ackermann.cpp.i
+
+Ackermann.s: Ackermann.cpp.s
+
+.PHONY : Ackermann.s
+
+# target to generate assembly for a file
+Ackermann.cpp.s:
+	$(MAKE) -f CMakeFiles/AuDEx02.dir/build.make CMakeFiles/AuDEx02.dir/Ackermann.cpp.s
+.PHONY : Ackermann.cpp.s
+
 RandomAccessMachine.o: RandomAccessMachine.cpp.o
 
 .PHONY : RandomAccessMachine.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... AuDEx02"
+	@echo "... Ackermann.o"
+	@echo "... Ackermann.i"
+	@echo "... Ackermann.s"
 	@echo "... RandomAccessMachine.o"
 	@echo "... RandomAccessMachine.i"
 	@echo "... RandomAccessMachine.s"

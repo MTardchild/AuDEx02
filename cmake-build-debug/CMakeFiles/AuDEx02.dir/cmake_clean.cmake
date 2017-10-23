@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/AuDEx02.dir/main.cpp.o"
   "CMakeFiles/AuDEx02.dir/RandomAccessMachine.cpp.o"
+  "CMakeFiles/AuDEx02.dir/Ackermann.cpp.o"
   "AuDEx02.pdb"
   "AuDEx02"
 )
